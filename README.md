@@ -1,8 +1,9 @@
 
 # UWB-Workshop
 
-This is the instruction for UWB workshops with Murata 2BP EVB on Windows PC to run a demo code.  
-The demo code will set up communication between the 2BP EVB and an Iphone to show the direction and range of the UWB EVB.
+This is the instruction for UWB workshops with Murata Type 2BP Evaluation Board on Windows PC to run a demo code.  
+The demo code will set up communication between the 2BP EVB and an Iphone to show the direction and range of the UWB EVB.  
+Please go through the PPT if you do not know anything about UWB.  
 
 ## 1. Install and Setup the Software Development Environment
 
