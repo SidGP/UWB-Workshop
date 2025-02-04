@@ -30,6 +30,9 @@ Install pip if you dont have it on your PC
 
 >py -3 –m ensurepip
 
+or  
+
+>python3 –m ensurepip
 
 ### 1.5 MCUXpresso IDE 
 
